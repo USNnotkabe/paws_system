@@ -17,8 +17,9 @@ class Pet extends Model
         'gender',
         'color',
         'description',
-        'price',           // ← ADD THIS
-        'listing_type',    // ← ADD THISj
+        'price',
+        'listing_type',
+        'status',           // ← ADD THIS LINE!
         'allergies',
         'medications',
         'food_preferences',
